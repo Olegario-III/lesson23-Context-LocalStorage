@@ -1,5 +1,5 @@
 # Theme Toggle Demo
-Lesson 23: React Context + LocalStorage
+Lesson 23: React Context + LocalStorage,
 
 A clean, modern dark/light mode toggle using **React Context** and **LocalStorage** — perfect for mobile apps like **Lockalista**.
 
